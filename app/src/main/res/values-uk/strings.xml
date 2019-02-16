@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Завдання:СЕ-1257218</string>
+    <string name="textview1">Комунальне господарство</string>
+    <string name="textview2">Створено</string>
+    <string name="textview3">Зареєстровано</string>
+    <string name="textview4">Виконати до</string>
+    <string name="textview5">Відповідальний</string>
+    <string name="menu1">Пункт 1</string>
+    <string name="menu2">Пункт 2</string>
+    <string name="owalchik">В роботі</string>
+    <string name="date">27 січня 2016</string>
+    <string name="city">Дніпропетровський МВК</string>
+    <string name="bigtextview">Колись-то давно,не з моєї пам\'\яті,мабуть, ще й батьків і дідів наших не було на світі, жив собі убогий чоловік з жінкою, а у них був одним один син , та й той не такий як треба: таке ледаще той одинчик, що господи!   </string>
+
+</resources>

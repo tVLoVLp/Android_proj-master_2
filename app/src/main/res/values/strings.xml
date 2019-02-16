@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Task: CE-1257218</string>
+    <string name="textview1">Municipal economy</string>
+    <string name="textview2">Created</string>
+    <string name="textview3">Registered</string>
+    <string name="textview4">Run to</string>
+    <string name="textview5">Responsible</string>
+    <string name="menu1">Item 1</string>
+    <string name="menu2">Item 2</string>
+    <string name="owalchik">In work</string>
+    <string name="date">27 January 2016</string>
+    <string name="city">Dnipropetrovsk MVK</string>
+    <string name="bigtextview">Sometime a long time ago, not with my memory, apparently, our parents and grandfathers were not in the world, lived a poor man with a woman, and they had one single son, and he was not the one who needs it: so dearest that gentleman is that gentleman!</string>
+
+</resources>
